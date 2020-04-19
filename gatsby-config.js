@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Mutual Aid',
+    title: 'MutualAid.world',
     description:
       'We’re making it safe and easy for communities to provide local aid',
   },
