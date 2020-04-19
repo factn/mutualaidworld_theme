@@ -1,6 +1,6 @@
-# Mutual Aid - Resilience App Theme
+# Mutual Aid - MutualAidWorld theme
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e1d80024-6417-4af4-ad3d-0ee57410366c/deploy-status)](https://app.netlify.com/sites/resilienceapp-theme/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1d80024-6417-4af4-ad3d-0ee57410366c/deploy-status)](https://app.netlify.com/sites/mutualaidworld-theme/deploys)
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@
 Clone the repository
 ```
 $ cd <sites-folder>
-$ git clone https://github.com/factn/resilienceapp_theme.git
+$ git clone https://github.com/factn/mutualaidworld_theme.git
 ```
 
 Make sure you have Gatsby installed globally
